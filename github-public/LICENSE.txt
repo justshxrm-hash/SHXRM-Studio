@@ -1,0 +1,21 @@
+SHXRM Studio commercial software license
+Copyright 2026 SHXRM. All rights reserved.
+
+A valid purchased SHXRM Studio license grants its purchaser permission to use
+the compiled toolkit within the computer activation limit and term disclosed
+for the purchased product. The license is non-exclusive and non-transferable
+between owners. Deactivating one computer and activating another for the same
+owner is permitted within those limits. Browser access to the same licensed
+streaming PC does not count as another PC activation.
+
+Redistribution, resale, or sublicensing of the proprietary application, owner
+source/build kit, activation keys, or publisher build configuration is not
+permitted without SHXRM's written authorization. The public setup documentation
+may be copied for installation and support with attribution. Purchase and
+refund terms are those disclosed by the publisher at checkout.
+
+Third-party components remain governed by their own licenses and notices.
+This license does not restrict rights granted by those third-party licenses.
+Streaming services, connectivity, and platform access are supplied separately.
+The software is supplied as-is, without a guarantee of uninterrupted streams
+or fitness for a particular purpose, to the extent permitted by applicable law.
